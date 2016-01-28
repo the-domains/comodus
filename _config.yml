@@ -1,0 +1,28 @@
+name: comodus
+favicon: null
+layout_spectrum: 0.4945485405623913
+typography_spectrum: 0.8634987608529627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.779705683235079
+  lightness: 0.5819838356692344
+  saturation: 0.5591428799089044
+  rhythmicContrast: 0.10470058745704591
+purpose: []
